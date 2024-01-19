@@ -13,7 +13,7 @@ You can use any hosted service, everything must run locally.
 
 * React
 * Ant design https://ant.design/
-* Echart https://echarts.apache.org/en/index.html
+* Echarts https://echarts.apache.org/en/index.html
 
 ## Delivery
 
